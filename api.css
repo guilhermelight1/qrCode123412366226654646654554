@@ -1,0 +1,18 @@
+.k-qrcode {
+    margin: 20px auto;
+}
+
+#qrValue{
+    width: 190px;
+    max-width:190px;
+    height: 100px;
+}
+
+.options label {
+     display: inline-block;
+     width: 120px;
+}
+.options .k-dropdown,
+.options .ak-numerictextbox {
+     width: 100px;
+}
